@@ -4,3 +4,4 @@ langchain-groq
 langchain-core
 fastapi
 uvicorn[standard]
+langchain-ollama
